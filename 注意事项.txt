@@ -1,0 +1,7 @@
+需要安装如下第三方库才能正常运行
+requests
+BeautifulSoup
+安装指令
+pip install requests
+pip install BeautifulSoup
+这只能爬一些很简单的东西有限制的有些不可以爬
